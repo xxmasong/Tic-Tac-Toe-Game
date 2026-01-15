@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Tic-Tac-Toe",
+  "description": "A modern, high-performance Tic-Tac-Toe game featuring a 'God-Mode' AI powered by Google Gemini 3 Flash. Experience sleek UI, real-time reasoning, and competitive gameplay.",
+  "requestFramePermissions": []
+}
